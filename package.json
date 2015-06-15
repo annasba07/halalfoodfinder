@@ -1,0 +1,17 @@
+{
+  "name": "tayyubdata",
+  "version": "1.0.0",
+  "description": "burrowed data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "tayyub"
+  ],
+  "author": "Annas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
